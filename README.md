@@ -4,7 +4,7 @@ Heyo👋 I'm immrb!
 Python and Java developer
 ------------------------------------------
 
-<img src="https://img.shields.io/website?url=https%3A%2F%2Fimmrb.lol&up_message=online&down_message=down&label=nin1275.xyz" alt="nin1275.xyz website status"/>
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fimmrb.lol&up_message=online&down_message=down&label=immrb.lol" alt="immrb.lol website status"/>
 
 
 
