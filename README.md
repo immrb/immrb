@@ -34,5 +34,7 @@ Python and Java developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="Visual Studio Code" />
 </a>
 
+![Metrics](github-metrics.svg)
+
 </p>
 
